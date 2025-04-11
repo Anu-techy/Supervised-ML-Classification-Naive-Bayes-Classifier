@@ -25,7 +25,7 @@ Used mainly in text classifying
 
                    
                          
-**3. You pick a random card, its a diamond. now What is the probability of that card being a queen?**
+**3. You pick a random card, its a diamond. What is the probability of that card being a queen?**
 
 **Soln:** Total diamonds = 13, Queen = 1
 
@@ -37,7 +37,7 @@ Used mainly in text classifying
 
 **4. You pick a card, it is a queen, What is the probability of that card being diamond?**
 
-**Soln1:** There are 4 queens, out off which diamond queen is 1
+**Soln1:** There are 4 queens, out of which diamond queen is 1
 
                                     Hence p(diamond|queen) = 1/4
 
@@ -45,7 +45,7 @@ Used mainly in text classifying
 
                     
 
-**Soln2:** Using Bayes' Theorem
+**Soln2:**  Using Bayes' Theorem
 
                             p(diamond|queen) = [ p(queen|diamond) * p(diamond) ] / p(queen) 
 
