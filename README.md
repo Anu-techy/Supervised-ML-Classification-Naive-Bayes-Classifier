@@ -1,9 +1,12 @@
 # Supervised-ML-Classification-Naive-Bayes-Classifier
 
-Used mainly in text classifying
+Used mainly in text classifying ( email spam classification)
+
+Naive Bayes' Classifier is based on the Bayes' Theorem by Thomas Bayes.
+
+                            P(A|B) = [P(B|A) * P(A)] / P(B)
 
                   
-
 **Conditional probability**
 
               P(A|B) is probability of event A knowing that event B has already occured
